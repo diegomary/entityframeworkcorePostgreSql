@@ -1,0 +1,11 @@
+/home/diego/Desktop/efcore/bin/Debug/netcoreapp2.2/efcore.deps.json
+/home/diego/Desktop/efcore/bin/Debug/netcoreapp2.2/efcore.runtimeconfig.json
+/home/diego/Desktop/efcore/bin/Debug/netcoreapp2.2/efcore.runtimeconfig.dev.json
+/home/diego/Desktop/efcore/bin/Debug/netcoreapp2.2/efcore.dll
+/home/diego/Desktop/efcore/bin/Debug/netcoreapp2.2/efcore.pdb
+/home/diego/Desktop/efcore/obj/Debug/netcoreapp2.2/efcore.csprojAssemblyReference.cache
+/home/diego/Desktop/efcore/obj/Debug/netcoreapp2.2/efcore.csproj.CoreCompileInputs.cache
+/home/diego/Desktop/efcore/obj/Debug/netcoreapp2.2/efcore.AssemblyInfoInputs.cache
+/home/diego/Desktop/efcore/obj/Debug/netcoreapp2.2/efcore.AssemblyInfo.cs
+/home/diego/Desktop/efcore/obj/Debug/netcoreapp2.2/efcore.dll
+/home/diego/Desktop/efcore/obj/Debug/netcoreapp2.2/efcore.pdb
